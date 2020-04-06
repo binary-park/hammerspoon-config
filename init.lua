@@ -1,4 +1,5 @@
 -- hammerspoon config
+require('modules.inputsource_aurora')
 
 local app_mode = hs.hotkey.modal.new()
 
